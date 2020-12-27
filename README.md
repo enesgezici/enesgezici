@@ -1,6 +1,6 @@
 ### Hi there! My name is Enes. I live in Istanbul. 👋
 
-![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enesgezici&show_icons=true)
+![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enesgezici&show_icons=true&theme=tokyonight)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
