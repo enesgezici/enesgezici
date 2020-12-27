@@ -9,7 +9,7 @@
 I'm working as Software Engineer in Data Market Inc, R&D team.
 
 ## 💬 About Me 
-I love developing software, reading books, playing games, traveling and having fun with my friends.
+I love reading books, playing games, traveling and having fun with my friends.
 You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg Mobile, Call of Duty
 
 <a href="https://discord.com/enesgezici#7242" target="_blank">  
