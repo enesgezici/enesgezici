@@ -38,22 +38,22 @@ You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg Mob
 ## 📫 Contact Me 
 
 <a href="https://www.enesgezici.com" target="_blank">  
-  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1/1198.svg" /> 
+  <img width="50px" src="https://www.flaticon.com/svg/static/icons/svg/3719/3719350.svg" /> 
 </a>
 
 <a href="https://www.linkedin.com/in/enesgezici/" target="_blank"> 
-  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
+  <img width="50px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 </a>
 
 <a href="https://www.instagram.com/enesgezici" target="_blank">  
-  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
+  <img width="50px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" />
 </a>
 
 
 <a href="https://medium.com/@enesgezici" target="_blank" target="_blank">  
-  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111543.svg" />
+  <img width="50px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111543.svg" />
 </a>
 
 <a href="https://t.me/enesgezici" target="_blank">  
-  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/906/906377.svg" />
+  <img width="50px" src="https://www.flaticon.com/svg/static/icons/svg/906/906377.svg" />
 </a>
