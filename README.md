@@ -22,9 +22,9 @@ You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg Mob
 
 ## 🧠 I use
 - C#, .NET Core and ASP.NET
-- Azure
 - Microsoft SQL Server
 - Oracle PL/SQL
+- Microsoft Azure
 - HTML
 - CSS
 - JavaScript
