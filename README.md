@@ -20,7 +20,7 @@ You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg Mob
   <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" />
 </a>
 
-## 🧠 Technologies I Use
+## 🧠 I use
 - C#, .NET Core and ASP.NET
 - Azure
 - Microsoft SQL Server
