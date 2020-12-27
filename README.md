@@ -10,28 +10,28 @@ I'm working as Software Engineer in Data Market Inc, R&D team.
 ## 📫 Contact Me 
 
 
-<a href="https://www.enesgezici.com">  
+<a href="https://www.enesgezici.com" target="_blank">  
   <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/841/841568.svg" /> 
 </a>
 
 
-<a href="https://www.linkedin.com/in/enesgezici/"> 
-  <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/enesgezici/" target="_blank"> 
+  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 </a>
 
 
-<a href="https://www.instagram.com/enesgezici">  
-  <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
+<a href="https://www.instagram.com/enesgezici" target="_blank">  
+  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
 </a>
 
 
-<a href="https://medium.com/@enesgezici">  
-  <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
+<a href="https://medium.com/@enesgezici" target="_blank" target="_blank">  
+  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111543.svg" />
 </a>
 
 
-<a href="https://t.me/enesgezici">  
-  <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://t.me/enesgezici" target="_blank">  
+  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/906/906377.svg" />
 </a>
 
 
