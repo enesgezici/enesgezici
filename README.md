@@ -11,7 +11,7 @@ I'm working as Software Engineer in Data Market Inc, R&D team.
 
 
 <a href="https://www.enesgezici.com" target="_blank">  
-  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/841/841568.svg" /> 
+  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/3962/3962038.svg" /> 
 </a>
 
 
@@ -32,6 +32,14 @@ I'm working as Software Engineer in Data Market Inc, R&D team.
 
 <a href="https://t.me/enesgezici" target="_blank">  
   <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/906/906377.svg" />
+</a>
+
+<a href="https://discord.com/enesgezici#7242" target="_blank">  
+  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" />
+</a>
+
+<a href="https://steamcommunity.com/id/enesgezici/" target="_blank">  
+  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" />
 </a>
 
 
