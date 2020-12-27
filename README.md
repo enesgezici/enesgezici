@@ -2,6 +2,9 @@
 
 ![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enesgezici&show_icons=true)
 
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## ⚡ Job
 I'm working as Software Engineer in Data Market Inc, R&D team.
 
@@ -17,11 +20,25 @@ You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg Mob
   <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" />
 </a>
 
+## 🧠 Technologies I Use
+- C#, .NET Core and ASP.NET
+- Azure
+- Microsoft SQL Server
+- Oracle PL/SQL
+- HTML
+- CSS
+- JavaScript
+- JQuery
+- Bootstrap
+- Node.js
+- Socket.io
+- Redis
+
 
 ## 📫 Contact Me 
 
 <a href="https://www.enesgezici.com" target="_blank">  
-  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/3962/3962038.svg" /> 
+  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1/1198.svg" /> 
 </a>
 
 <a href="https://www.linkedin.com/in/enesgezici/" target="_blank"> 
@@ -40,19 +57,3 @@ You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg Mob
 <a href="https://t.me/enesgezici" target="_blank">  
   <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/906/906377.svg" />
 </a>
-
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
