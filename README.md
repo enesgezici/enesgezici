@@ -1,4 +1,4 @@
-### Hi there! My name is Enes. I live in Istanbul Turkey. 👋
+### Hi there! My name is Enes. I live in Istanbul. 👋
 
 ![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enesgezici&show_icons=true)
 
