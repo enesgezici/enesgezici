@@ -24,7 +24,10 @@ You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg Mob
 - C#, .NET Core and ASP.NET
 - Microsoft SQL Server
 - Oracle PL/SQL
-- Microsoft Azure
+- Entity Framework
+- Dapper
+- Web API
+- Microsoft Azure 
 - HTML
 - CSS
 - JavaScript
@@ -33,6 +36,7 @@ You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg Mob
 - Node.js
 - Socket.io
 - Redis
+- MQTT 
 
 
 ## 📫 Contact Me 
