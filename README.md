@@ -2,7 +2,7 @@
 
 ![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enesgezici&show_icons=true&theme=tokyonight)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&layout=compact)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&layout=compact)]
 
 
 ## ⚡ Job
