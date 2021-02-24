@@ -2,7 +2,8 @@
 
 ![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enesgezici&show_icons=true&theme=tokyonight)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## ⚡ Job
