@@ -25,18 +25,18 @@ You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg Mob
 - C#, .NET Core and ASP.NET
 - Microsoft SQL Server
 - Oracle PL/SQL
+- PostgreSQL
+- Redis
 - Entity Framework
-- Dapper
-- Web API
+- .NET Core Web API 
 - Microsoft Azure 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - JQuery
 - Bootstrap
 - Node.js
 - Socket.io
-- Redis
 - MQTT 
 
 
