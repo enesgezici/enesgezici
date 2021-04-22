@@ -2,24 +2,19 @@
 
 ![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enesgezici&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&layout=compact" alt="shely"/></p>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="30" height="30"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="css3" width="30" height="30"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a>
+</p>
 
 ## ⚡ Job
 I'm working as Software Engineer in Data Market Inc, R&D team.
-
-## 💬 About Me 
-I love reading books, playing games, traveling and having fun with my friends.
-You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg Mobile, Call of Duty
-
-<a href="https://discord.com/enesgezici#7242" target="_blank">  
-  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" />
-</a>
-
-<a href="https://steamcommunity.com/id/enesgezici/" target="_blank">  
-  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" />
-</a>
 
 ## 🧠 I use
 - C#, .NET Core and ASP.NET
@@ -39,6 +34,17 @@ You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg Mob
 - Socket.io
 - MQTT 
 
+## 💬 About Me 
+I love reading books, playing games, traveling and having fun with my friends.
+You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg Mobile, Call of Duty
+
+<a href="https://discord.com/enesgezici#7242" target="_blank">  
+  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" />
+</a>
+
+<a href="https://steamcommunity.com/id/enesgezici/" target="_blank">  
+  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" />
+</a>
 
 ## 📫 Contact Me 
 
