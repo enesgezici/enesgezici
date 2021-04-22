@@ -2,6 +2,9 @@
 
 ![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enesgezici&show_icons=true&theme=tokyonight)
 
+## ⚡ Job
+I'm working as Software Engineer in Data Market Inc, R&D team.
+
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&layout=compact" alt="shely"/></p>
 
 <p align="left">
@@ -12,11 +15,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="css3" width="30" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a>
 </p>
-
-<br><br>
-
-## ⚡ Job
-I'm working as Software Engineer in Data Market Inc, R&D team.
 
 ## 🧠 I use
 - C#, .NET Core and ASP.NET
