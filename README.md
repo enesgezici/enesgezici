@@ -3,7 +3,7 @@
 ![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enesgezici&show_icons=true&theme=tokyonight)
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&layout=compact" alt="shely"/></p>
-
+<!-- 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="30" height="30"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
@@ -14,7 +14,7 @@
   <img src="https://www.flaticon.com/svg/vstatic/svg/2305/2305846.svg?token=exp=1619136295~hmac=d5b626450c864ac5b67fb317bdf03429" width="30" height="30"/> 
   <img src="https://www.flaticon.com/svg/vstatic/svg/873/873107.svg?token=exp=1619136325~hmac=09fe715422c646d339461a53b98f745a" width="30" height="30"/>
 </p>
-
+-->
 
 ## ⚡ Job
 I'm working as Software Engineer in Data Market Inc, R&D team.
