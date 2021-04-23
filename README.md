@@ -21,13 +21,15 @@ I'm working as Software Engineer in Data Market Inc, R&D team.
 
 
 ## 🧠 I use
-- C#, .NET Core and ASP.NET
-- Microsoft SQL Server
+- C# Object Oriented Programming 
+- .NET Core and ASP.NET
+- Relational Database Design
+- Microsoft Sql Server (T-SQL)
 - Oracle PL/SQL
 - PostgreSQL
 - Redis
 - Entity Framework
-- .NET Core Web API 
+- RestFul Web API
 - Microsoft Azure 
 - HTML5
 - CSS3
@@ -37,6 +39,15 @@ I'm working as Software Engineer in Data Market Inc, R&D team.
 - Node.js
 - Socket.io
 - MQTT 
+- Design Patterns
+
+## 🙌 I experienced
+- Git & GitHub
+- Bitbucket
+- TFS
+- Jira
+- Confluence
+
 
 ## 💬 About Me 
 I love reading books, playing games, traveling and having fun with my friends.
