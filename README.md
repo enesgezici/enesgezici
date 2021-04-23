@@ -49,7 +49,7 @@ I'm working as Software Engineer in Data Market Inc, R&D team.
 - Jira
 - Confluence
 - Flow Charts
-- Creating a user guide and Application Documents
+- Creating a User Guide and Development Documents
 - Kanban Board Task Management
 
 
