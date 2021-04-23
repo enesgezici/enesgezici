@@ -55,7 +55,7 @@ I'm working as Software Engineer in Data Market Inc, R&D team.
 
 ## 💬 About Me 
 I love reading books, playing games, sport, camping, cycling, exploring new places, traveling and having fun with my friends.
-You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg Mobile, Call of Duty
+You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg, Call of Duty, NBA, Nascar, Formula 1 and Need for Speed Series.
 
 <a href="https://discord.com/enesgezici#7242" target="_blank">  
   <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" />
