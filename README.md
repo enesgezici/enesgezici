@@ -42,11 +42,15 @@ I'm working as Software Engineer in Data Market Inc, R&D team.
 - Design Patterns
 
 ## 🙌 I experienced
+
 - Git & GitHub
 - Bitbucket
 - TFS
 - Jira
 - Confluence
+- Flow Charts
+- Creating a user guide and Application Documents
+- Kanban Board Task Management
 
 
 ## 💬 About Me 
