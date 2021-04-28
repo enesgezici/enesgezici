@@ -21,8 +21,9 @@ I'm working as Software Engineer in Data Market Inc, R&D team.
 
 
 ## 🧠 I use
-- C# Object Oriented Programming 
-- .NET Core and ASP.NET
+- C#, .NET Core and ASP.NET
+- Object Oriented Programming 
+- Aspect Oriented Programming
 - Relational Database Design
 - Microsoft Sql Server (T-SQL)
 - Oracle PL/SQL
