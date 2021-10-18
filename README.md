@@ -73,20 +73,20 @@ You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg, Ca
 </a>
 
 <a href="https://www.linkedin.com/in/enesgezici/" target="_blank"> 
-  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
+  <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 
 <a href="https://www.instagram.com/enesgezici" target="_blank">  
-  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" />
+  <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 
 
 <a href="https://medium.com/@enesgezici" target="_blank" target="_blank">  
-  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111543.svg" />
+  <img width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
 </a>
 
 <a href="https://t.me/enesgezici" target="_blank">  
-  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/906/906377.svg" />
+  <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
 </a>
 
   ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/github.com/enesgezici)
