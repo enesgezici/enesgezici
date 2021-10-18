@@ -88,3 +88,5 @@ You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg, Ca
 <a href="https://t.me/enesgezici" target="_blank">  
   <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/906/906377.svg" />
 </a>
+
+  ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/github.com/enesgezici)
