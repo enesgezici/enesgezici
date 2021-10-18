@@ -69,7 +69,7 @@ You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg, Ca
 ## 📫 Contact Me 
 
 <a href="https://www.enesgezici.com" target="_blank">  
-  <img width="30px" src="https://www.flaticon.com/premium-icon/world_2685428?term=world&page=1&position=7&page=1&position=7&related_id=2685428&origin=search" /> 
+  <img width="30px" src="https://www.enesgezici.com/img/enesgezici-blog.png" /> 
 </a>
 
 <a href="https://www.linkedin.com/in/enesgezici/" target="_blank"> 
