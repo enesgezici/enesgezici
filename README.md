@@ -43,11 +43,24 @@ I'm working as Software Engineer in TRT, R&D team.
 - Socket.io
 - MQTT 
 - Design Patterns
+- Microservices
+- Amazon Web Services
+- Apache Kafka
+- RabbitMQ
+- Integration API's (Rest)
+- CQRS
+- Elasticsearch
+- Docker
+- Kubernetes(K8s)
+
+
 
 ## 🙌 I experienced
 
-- Git & GitHub
+- Git
+- Github
 - Bitbucket
+- GitLab CI/CD
 - TFS
 - Jira
 - Confluence
