@@ -59,7 +59,7 @@ I love reading books, playing games, sport, camping, cycling, exploring new plac
 You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg, Call of Duty, NBA, Nascar, Formula 1 and Need for Speed Series.
 
 <a href="https://discord.com/enesgezici#7242" target="_blank">  
-  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" />
+  <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
 </a>
 
 <a href="https://steamcommunity.com/id/enesgezici/" target="_blank">  
@@ -69,7 +69,7 @@ You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg, Ca
 ## 📫 Contact Me 
 
 <a href="https://www.enesgezici.com" target="_blank">  
-  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/3719/3719350.svg" /> 
+  <img width="30px" src="https://www.flaticon.com/premium-icon/world_2685428?term=world&page=1&position=7&page=1&position=7&related_id=2685428&origin=search" /> 
 </a>
 
 <a href="https://www.linkedin.com/in/enesgezici/" target="_blank"> 
