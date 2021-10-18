@@ -21,7 +21,9 @@ I'm working as Software Engineer in TRT, R&D team.
 
 
 ## 🧠 I use
-- C#, .NET Core and ASP.NET
+- C#
+- ASP.NET Core
+- Go
 - Object Oriented Programming 
 - Aspect Oriented Programming
 - Relational Database Design
