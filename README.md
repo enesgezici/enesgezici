@@ -89,4 +89,6 @@ You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg, Ca
   <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
 </a>
 
+  ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fkeremvaris.keremvaris%2Freadme)
+
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/github.com/enesgezici)
