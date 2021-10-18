@@ -17,7 +17,7 @@
 -->
 
 ## ⚡ Job
-I'm working as Software Engineer in Data Market Inc, R&D team.
+I'm working as Software Engineer in TRT, R&D team.
 
 
 ## 🧠 I use
