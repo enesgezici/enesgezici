@@ -17,13 +17,13 @@
 -->
 
 ## ⚡ Job
-I'm working as Software Engineer in TRT, R&D team.
+I'm working as Software Engineer in TRT
 
 
 ## 🧠 I use
 - C#
 - ASP.NET Core
-- Go
+- Go (Golang)
 - Object Oriented Programming 
 - Aspect Oriented Programming
 - Relational Database Design
