@@ -91,18 +91,21 @@ You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg, Ca
   <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 
+<a href="https://medium.com/@enesgezici" target="_blank" target="_blank">  
+  <img width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+</a>
+
 <a href="https://www.instagram.com/enesgezici" target="_blank">  
   <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 
-<a href="https://medium.com/@enesgezici" target="_blank" target="_blank">  
-  <img width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+<a href="https://www.twitter.com.com/enesgezici" target="_blank">  
+  <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
 </a>
 
 <a href="https://t.me/enesgezici" target="_blank">  
   <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
 </a>
-
 
 ## ⏳ Github Views
 
