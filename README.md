@@ -33,6 +33,7 @@ I'm working as Software Engineer in TRT
 - Redis
 - Entity Framework
 - RestFul Web API
+- Microservices
 - Microsoft Azure 
 - HTML5
 - CSS3
@@ -43,7 +44,6 @@ I'm working as Software Engineer in TRT
 - Socket.io
 - MQTT 
 - Design Patterns
-- Microservices
 - Amazon Web Services
 - Apache Kafka
 - RabbitMQ
@@ -52,7 +52,6 @@ I'm working as Software Engineer in TRT
 - Elasticsearch
 - Docker
 - Kubernetes(K8s)
-
 
 
 ## 🙌 I experienced
@@ -99,7 +98,7 @@ You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg, Ca
   <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 
-<a href="https://www.twitter.com.com/enesgezici" target="_blank">  
+<a href="https://www.twitter.com/enesgezici" target="_blank">  
   <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
 </a>
 
