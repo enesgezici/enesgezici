@@ -2,11 +2,10 @@
 
 ![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enesgezici&show_icons=true&theme=tokyonight)
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&layout=compact" alt="shely"/></p>
-
-
 ## ⚡ Job
-I'm working as Software Engineer in TRT
+I'm working as Software Engineer
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&layout=compact" alt="shely"/>
 
 
 ## 🧠 I use
