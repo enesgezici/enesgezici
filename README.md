@@ -25,6 +25,7 @@ I'm working as Software Engineer
 - Microsoft Azure 
 - HTML5
 - CSS3
+- TypeScript
 - JavaScript
 - JQuery
 - Bootstrap
