@@ -58,6 +58,18 @@ I'm working as Software Engineer
 - Scrum
 - DevOps
 - Continuous Integration / Continuous Delivery
+- MacOS, Windows, Linux
+
+## 💻 Developer Tools
+- Microsoft Visual Studio
+- Visual Studio Code
+- Goland
+- WebStorm
+- Brackets
+- Notepad++
+- SQL Server Management Studio
+- Oracle SQL Developer
+- DataGrip
 
 
 ## 💬 About Me 
