@@ -48,13 +48,16 @@ I'm working as Software Engineer
 - Git
 - Github
 - Bitbucket
-- GitLab CI/CD
+- GitLab
 - TFS
 - Jira
 - Confluence
 - Flow Charts
 - Creating a User Guide and Development Documents
-- Kanban Board Task Management
+- Agile & Kanban Board Task Management
+- Scrum
+- DevOps
+- Continuous Integration / Continuous Delivery
 
 
 ## 💬 About Me 
