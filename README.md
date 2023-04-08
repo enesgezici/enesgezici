@@ -25,10 +25,10 @@ I'm working as Software Engineer
 
 ## Backend
 
-- C#,
+- C#
 - NET
 - ASP.NET Core
-- Go (Golang)
+- Golang
 - Node.js
 
 ## Database 
