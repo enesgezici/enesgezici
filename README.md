@@ -16,8 +16,6 @@ I'm working as Software Engineer
 - AutoMapper
 - RestFul Web API
 - Microservices
-- Socket.io
-- MQTT 
 - Design Patterns
 - Integration API's (Rest)
 - CQRS
@@ -62,10 +60,14 @@ I'm working as Software Engineer
 
 - Apache Kafka
 - RabbitMQ
+- Socket.io
+- MQTT 
 - Redis
+- Node-RED
 - Elasticsearch
 - Docker
 - Kubernetes(K8s)
+- 
 
 ## 🙌 I experienced
 
