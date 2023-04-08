@@ -12,6 +12,8 @@ I'm working as Software Engineer
 - Object Oriented Programming 
 - Aspect Oriented Programming
 - Relational Database Design
+
+
 - Entity Framework Core
 - RESTful API
 - gRPC
@@ -20,6 +22,12 @@ I'm working as Software Engineer
 - Integration API's (Rest)
 - CQRS
 
+## Architecture Buildings
+
+- Clean Architecture
+- Event-Driven Architecture 
+- N-Tier Architecture
+- Layered Architecture
 
 ## Backend
 
