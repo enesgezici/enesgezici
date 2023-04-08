@@ -13,8 +13,8 @@ I'm working as Software Engineer
 - Aspect Oriented Programming
 - Relational Database Design
 - Entity Framework Core
-- AutoMapper
 - RestFul Web API
+- gRPC
 - Microservices
 - Design Patterns
 - Integration API's (Rest)
