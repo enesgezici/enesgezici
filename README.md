@@ -9,39 +9,63 @@ I'm working as Software Engineer
 
 
 ## 🧠 I use
-- C#
-- ASP.NET Core
-- Go (Golang)
 - Object Oriented Programming 
 - Aspect Oriented Programming
 - Relational Database Design
-- Microsoft Sql Server (T-SQL)
-- Oracle PL/SQL
-- PostgreSQL
-- Redis
 - Entity Framework
 - RestFul Web API
 - Microservices
-- Microsoft Azure 
-- HTML5
-- CSS3
-- TypeScript
-- JavaScript
-- JQuery
-- Bootstrap
-- Node.js
+
 - Socket.io
 - MQTT 
 - Design Patterns
-- Amazon Web Services
-- Apache Kafka
-- RabbitMQ
 - Integration API's (Rest)
 - CQRS
+
+
+#Backend
+
+- C#,
+- NET
+- ASP.NET Core
+- Go (Golang)
+- Node.js
+
+#Database 
+
+- Microsoft Sql Server
+- Oracle PL/SQL
+- PostgreSQL
+- MongoDB
+- Cosmos
+- Amazon DynamoDB
+- MySQL
+- SQLite
+
+#Frontend 
+
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- JQuery
+- Bootstrap
+- Angular
+- ReactJS 
+
+#Cloud 
+
+- Microsoft Azure 
+- Amazon Web Services
+
+#Other 
+
+- Apache Kafka
+- RabbitMQ
+- Redis
 - Elasticsearch
 - Docker
 - Kubernetes(K8s)
-
 
 ## 🙌 I experienced
 
