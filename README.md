@@ -12,10 +12,10 @@ I'm working as Software Engineer
 - Object Oriented Programming 
 - Aspect Oriented Programming
 - Relational Database Design
-- Entity Framework
+- Entity Framework Core
+- AutoMapper
 - RestFul Web API
 - Microservices
-
 - Socket.io
 - MQTT 
 - Design Patterns
@@ -23,7 +23,7 @@ I'm working as Software Engineer
 - CQRS
 
 
-#Backend
+## Backend
 
 - C#,
 - NET
@@ -31,7 +31,7 @@ I'm working as Software Engineer
 - Go (Golang)
 - Node.js
 
-#Database 
+## Database 
 
 - Microsoft Sql Server
 - Oracle PL/SQL
@@ -42,7 +42,7 @@ I'm working as Software Engineer
 - MySQL
 - SQLite
 
-#Frontend 
+## Frontend 
 
 - HTML5
 - CSS3
@@ -53,12 +53,12 @@ I'm working as Software Engineer
 - Angular
 - ReactJS 
 
-#Cloud 
+## Cloud 
 
 - Microsoft Azure 
 - Amazon Web Services
 
-#Other 
+## Other 
 
 - Apache Kafka
 - RabbitMQ
