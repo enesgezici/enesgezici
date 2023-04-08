@@ -3,7 +3,7 @@
 ![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enesgezici&show_icons=true&theme=tokyonight)
 
 ## ⚡ Job
-I'm working as Software Engineer
+I have been working as a Software Engineer since 2013. I like to constantly learn, follow current technologies and trends, leave my comfort zone and exceed my own limits.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&layout=compact" alt="shely"/>
 
