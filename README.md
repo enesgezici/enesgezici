@@ -12,8 +12,6 @@ I have been working as a Software Engineer since 2013. I like to constantly lear
 - Object Oriented Programming 
 - Aspect Oriented Programming
 - Relational Database Design
-
-
 - Entity Framework Core
 - RESTful API
 - gRPC
@@ -43,6 +41,7 @@ I have been working as a Software Engineer since 2013. I like to constantly lear
 - Oracle PL/SQL
 - PostgreSQL
 - MongoDB
+- Cassandra
 - Cosmos
 - Amazon DynamoDB
 - MySQL
@@ -75,7 +74,6 @@ I have been working as a Software Engineer since 2013. I like to constantly lear
 - Elasticsearch
 - Docker
 - Kubernetes(K8s)
-
 
 ## 🙌 I experienced
 
@@ -147,6 +145,3 @@ You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg, Ca
 ## ⏳ Github Views
 
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/github.com/enesgezici)
-
-
-
