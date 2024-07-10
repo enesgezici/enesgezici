@@ -108,12 +108,12 @@ I have been working as a Software Engineer since 2013. I like to constantly lear
 I love reading books, playing games, sport, camping, cycling, exploring new places, traveling and having fun with my friends.
 You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg, Call of Duty, NBA, Nascar, Formula 1 and Need for Speed Series.
 
-<a href="https://discord.com/enesgezici#7242" target="_blank">  
-  <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
-</a>
-
 <a href="https://steamcommunity.com/id/enesgezici/" target="_blank">  
   <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" />
+</a>
+
+<a href="https://discord.com/enesgezici#7242" target="_blank">  
+  <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
 </a>
 
 ## 📫 Contact Me 
