@@ -144,5 +144,5 @@ You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg, Ca
 
 ## ⏳ Github Views
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/github.com/enesgezici)
+![](https://komarev.com/ghpvc/?username=enesgezici&color=green)
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
