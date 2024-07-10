@@ -113,7 +113,7 @@ You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg, Ca
 </a>
 
 <a href="https://discord.com/enesgezici#7242" target="_blank">  
-  <img width="30px" src="[https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Discord_color_D.svg/50px-Discord_color_D.svg.png)" />
+  <img width="30px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
 
 ## 📫 Contact Me 
