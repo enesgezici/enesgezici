@@ -5,8 +5,8 @@ I have been working as a Software Engineer since 2013. I like to constantly lear
 
 ## GitHub Stats
 <a href="https://github.com/jasontaylordev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enesgezici&show_icons=true&theme=tokyonight" alt="Enes's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&layout=compact" 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enesgezici&show_icons=true&theme=shades-of-purple&count_private=true" alt="Enes's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&layout=compact&theme=shades-of-purple&count_private=true" 
     alt="Enes GitHub Top Languages" />
 </a>
 
