@@ -1,12 +1,14 @@
 ### Hi there! My name is Enes. I live in Istanbul. 👋
 
-![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enesgezici&show_icons=true&theme=tokyonight)
-
 ## ⚡ Job
 I have been working as a Software Engineer since 2013. I like to constantly learn, follow current technologies and trends, leave my comfort zone and exceed my own limits.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&layout=compact" alt="shely"/>
-
+## GitHub Stats
+<a href="https://github.com/jasontaylordev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enesgezici&show_icons=true&theme=tokyonight" alt="Enes's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&layout=compact" 
+    alt="Enes GitHub Top Languages" />
+</a>
 
 ## 🧠 I use
 - Object Oriented Programming 
