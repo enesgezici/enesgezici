@@ -9,7 +9,11 @@ I have been working as a Software Engineer since 2013. I like to constantly lear
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&layout=compact&theme=shades-of-purple&count_private=true" alt="Enes GitHub Top Languages" />  
 </a>
 
-https://github-readme-streak-stats.herokuapp.com/?user=enesgezici&theme=shades-of-purple&hide_border=false
+
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&layout=compact&theme=shades-of-purple&count_private=true](https://github-readme-streak-stats.herokuapp.com/?user=enesgezici&theme=shades-of-purple&hide_border=false)" alt="Enes GitHub Top Languages" />  
+
+
+
 
 ## 🧠 I use
 - Object Oriented Programming 
