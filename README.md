@@ -6,14 +6,10 @@ I have been working as a Software Engineer since 2013. I like to constantly lear
 ## GitHub Stats
 <a href="https://github.com/enesgezici">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enesgezici&show_icons=true&theme=shades-of-purple&count_private=true" alt="Enes's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&layout=compact&theme=shades-of-purple&count_private=true" 
-    alt="Enes GitHub Top Languages" />
-
-
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&layout=compact&theme=shades-of-purple&count_private=true" alt="Enes GitHub Top Languages" />  
 </a>
 
-![enesgezici's Stats](https://github-readme-stats.vercel.app/api?username=enesgezici&theme=shades-of-purple&show_icons=true&hide_border=false&count_private=true)
+https://github-readme-streak-stats.herokuapp.com/?user=enesgezici&theme=shades-of-purple&hide_border=false
 
 ## 🧠 I use
 - Object Oriented Programming 
