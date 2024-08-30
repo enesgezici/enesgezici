@@ -3,32 +3,34 @@
 ## ⚡ Job
 I have been working as a Software Engineer since 2013. I like to constantly learn, follow current technologies and trends, leave my comfort zone and exceed my own limits.
 
-## GitHub Stats
+## 🧮 GitHub Stats
 <a href="https://github.com/enesgezici">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=enesgezici&theme=shades-of-purple&hide_border=false" alt="Enes GitHub Top Languages" />  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&layout=compact&theme=shades-of-purple&count_private=true" alt="Enes GitHub Top Languages" />  
 </a>
 
 ## 🧠 I use
+
 - Object Oriented Programming 
 - Aspect Oriented Programming
 - Relational Database Design
+- Non-Relational Database 
 - Entity Framework Core
 - RESTful API
 - gRPC
 - Microservices
 - Design Patterns
-- Integration API's (Rest)
-- CQRS
+
 
 ## Architecture Buildings
 
+- Microservices Architecture
+- Event-Driven Architecture
 - Clean Architecture
-- Event-Driven Architecture 
 - N-Tier Architecture
 - Layered Architecture
 
-## Backend
+## 🧑‍💻Backend
 
 - C#
 - NET
@@ -56,13 +58,11 @@ I have been working as a Software Engineer since 2013. I like to constantly lear
 - TypeScript
 - JQuery
 - Bootstrap
-- Angular
-- ReactJS 
 
 ## Cloud 
 
-- Microsoft Azure 
 - Amazon Web Services
+- Microsoft Azure 
 
 ## Other 
 
@@ -75,6 +75,8 @@ I have been working as a Software Engineer since 2013. I like to constantly lear
 - Elasticsearch
 - Docker
 - Kubernetes(K8s)
+- AWS LocalStack
+- Kibana & Logstash
 
 ## 🙌 I experienced
 
@@ -86,12 +88,13 @@ I have been working as a Software Engineer since 2013. I like to constantly lear
 - Jira
 - Confluence
 - Flow Charts
-- Creating a User Guide and Development Documents
-- Agile & Kanban Board Task Management
+- Agile
 - Scrum
-- DevOps
+- Kanban Board
 - Continuous Integration / Continuous Delivery
 - MacOS, Windows, Linux
+- Creating a User Guide and Development Documents
+
 
 ## 💻 Developer Tools
 - Microsoft Visual Studio
@@ -103,6 +106,7 @@ I have been working as a Software Engineer since 2013. I like to constantly lear
 - SQL Server Management Studio
 - Oracle SQL Developer
 - DataGrip
+- Sublime Text
 
 
 ## 💬 About Me 
