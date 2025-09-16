@@ -5,8 +5,18 @@ I have been working as a Software Engineer since 2013. I like to constantly lear
 
 ## 🧮 GitHub Stats
 <a href="https://github.com/enesgezici">
-  <img height="180em" style="width: 450px;" src="https://github-readme-streak-stats.herokuapp.com/?user=enesgezici&theme=shades-of-purple&hide_border=false" alt="Enes GitHub Top Languages" />  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&layout=compact&theme=shades-of-purple&count_private=true" alt="Enes GitHub Top Languages" />  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=enesgezici&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enesgezici&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enesgezici&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=enesgezici&theme=tokyonight)
+
+
+<!--   
+<!– <img height="180em" style="width: 450px;" src="https://github-readme-streak-stats.herokuapp.com/?user=enesgezici&theme=shades-of-purple&hide_border=false" alt="Enes GitHub Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesgezici&layout=compact&theme=shades-of-purple&count_private=true" alt="Enes GitHub Top Languages" />  
+-->
+
 </a>
 
 ## 🧠 I use
