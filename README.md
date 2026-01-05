@@ -134,7 +134,7 @@ You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg, Ca
 ## 📫 Contact Me 
 
 <a href="https://www.enesgezici.com" target="_blank" style="text-decoration: none !important;">  
-  <img width="30px" src="https://raw.githubusercontent.com/smcllns/css-social-buttons/master/src/www.svg" /> 
+  <img width="30px" src="https://upload.wikimedia.org/wikipedia/de/5/55/WWWlogo.svg" /> 
 </a>
 
 <a href="https://www.linkedin.com/in/enesgezici/" target="_blank" style="text-decoration: none !important;">  
