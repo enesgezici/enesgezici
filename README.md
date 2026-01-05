@@ -128,33 +128,33 @@ You can add my player profiles. Some of my favorite games; FIFA, CS:GO, Pubg, Ca
 </a>
 
 <a href="https://steamcommunity.com/id/enesgezici/" target="_blank" style="text-decoration: none !important;"> 
-  <img width="30px" style="text-decoration: none !important;" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" />
+  <img width="30px" style="text-decoration: none !important" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" />
 </a>
 
 ## 📫 Contact Me 
 
-<a href="https://www.enesgezici.com" target="_blank" style="text-decoration: none !important;">  
-  <img width="30px" src="https://upload.wikimedia.org/wikipedia/de/5/55/WWWlogo.svg" /> 
+<a href="https://www.enesgezici.com" target="_blank" style="text-decoration: none !important">  
+  <img width="30px" style="text-decoration: none !important" src="https://upload.wikimedia.org/wikipedia/de/5/55/WWWlogo.svg" /> 
 </a>
 
-<a href="https://www.linkedin.com/in/enesgezici/" target="_blank" style="text-decoration: none !important;">  
-  <img width="30px" style="text-decoration: none !important;" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+<a href="https://www.linkedin.com/in/enesgezici/" target="_blank" style="text-decoration: none !important">  
+  <img width="30px"style="text-decoration: none !important" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 
-<a href="https://medium.com/@enesgezici" target="_blank" target="_blank" style="text-decoration: none !important;">  
-  <img width="30px" style="text-decoration: none !important;" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+<a href="https://medium.com/@enesgezici" target="_blank" target="_blank" style="text-decoration: none !important">  
+  <img width="30px" style="text-decoration: none !important"src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
 </a>
 
-<a href="https://www.instagram.com/enesgezici" target="_blank" style="text-decoration: none !important;">  
-  <img width="30px" style="text-decoration: none !important;" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+<a href="https://www.instagram.com/enesgezici" target="_blank" style="text-decoration: none !important">  
+  <img width="30px" style="text-decoration: none !important" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 
-<a href="https://www.twitter.com/enesgezici" target="_blank" style="text-decoration: none !important;">   
-  <img width="30px" style="text-decoration: none !important;" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
+<a href="https://www.twitter.com/enesgezici" target="_blank" style="text-decoration: none !important">  
+  <img width="30px" style="text-decoration: none !important" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
 </a>
 
 <a href="https://t.me/enesgezici" target="_blank" style="text-decoration: none !important;">  
-  <img width="30px" style="text-decoration: none !important;" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
+  <img width="30px" style="text-decoration: none !important;padding-right: 5px;" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
 </a>
 
 ## ⏳ Github Views
